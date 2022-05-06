@@ -1,0 +1,5 @@
+Test 1 - Fire twice a single
+Test 2 - Fire once but the primary is empty
+Test 3 - Fire once but secondary is empty is empty
+Test 4 - Fire once but both is empty
+Test 5 - Fire all but both is empty
